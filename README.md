@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keno.
 - 👀 I’m interested in everything Programming related.
-- 🌱 I’m currently learning C# Right now focusing on Blazor in order to learn it in depth. 
-- 💞️ I’m looking to collaborate on sharing knowledge. 
-- 📫 How to reach me via E-Mail.
+- 🌱 I’m currently learning C# and i'm focusing on learning clean Architecture / everything ASP.Net. 
+- 💞️ I’m lookingto sharing knowledge. 
+- 📫 kenolendzion@gmail.com
